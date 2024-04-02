@@ -1,13 +1,13 @@
-package ru.itgirl.springprojectweek16;
+package ru.itgirl.simpledockerapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringProjectWeek16Application{
+public class SimpleDockerAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringProjectWeek16Application.class, args);
+		SpringApplication.run(SimpleDockerAppApplication.class, args);
 	}
 
 }
